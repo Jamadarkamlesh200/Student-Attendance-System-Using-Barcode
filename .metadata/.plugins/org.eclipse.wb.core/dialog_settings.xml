@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.editor.actions.errors.ErrorsDialog">
+		<item value="515" key="x"/>
+		<item value="890" key="width"/>
+		<item value="102" key="y"/>
+		<item value="826" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item value="610" key="x"/>
+		<item value="711" key="width"/>
+		<item value="262" key="y"/>
+		<item value="505" key="height"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="F:\Java\Projects\SAM\SAMDESK\src\cons\mysql-connet.jar"/>
+			<item value="F:\Java\Projects\DOCSYS\DOCSMANAGEMENT\mysql-connector-java-8.0.17.jar"/>
+			<item value="F:\Java\Projects\DOCSYS\DOCSMANAGEMENT\mssql-jdbc-6.4.0.jre8.jar"/>
+			<item value="F:\Java\Projects\DOCSYS\DOCSMANAGEMENT\mssql-jdbc-6.4.0.jre7.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/mysql-connet.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/mysql-connector-java-8.0.17.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/mssql-jdbc-6.4.0.jre8.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/mssql-jdbc-6.4.0.jre7.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/jfreechart-1.5.0.jar"/>
+			<item value="F:/Java/Projects/STUDENT/StudentAS/src/cons/jcalendar-1.4.jar"/>
+		</list>
+	</section>
+</section>
